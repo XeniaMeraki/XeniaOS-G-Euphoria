@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg954"
+   width="820.32935"
+   height="820.32935"
+   viewBox="0 0 820.32935 820.32935"
+   sodipodi:docname="xenia.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs958">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient79315">
+      <stop
+         style="stop-color:#f8a22a;stop-opacity:1;"
+         offset="0"
+         id="stop79311" />
+      <stop
+         style="stop-color:#ee7029;stop-opacity:1"
+         offset="1"
+         id="stop79313" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient73767">
+      <stop
+         style="stop-color:#e85028;stop-opacity:1;"
+         offset="0"
+         id="stop73763" />
+      <stop
+         style="stop-color:#f8a22a;stop-opacity:1"
+         offset="1"
+         id="stop73765" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient32230">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop32226" />
+      <stop
+         style="stop-color:#d9ffb2;stop-opacity:1"
+         offset="1"
+         id="stop32228" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient21782">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop21778" />
+      <stop
+         style="stop-color:#d9ffb2;stop-opacity:1"
+         offset="1"
+         id="stop21780" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient21679">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop21675" />
+      <stop
+         style="stop-color:#d9ffb2;stop-opacity:1"
+         offset="1"
+         id="stop21677" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient21679"
+       id="linearGradient21681"
+       x1="909.36554"
+       y1="442.59818"
+       x2="1004.5318"
+       y2="529.45618"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98044258,0,0,0.99914243,-289.05377,-98.105445)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient21782"
+       id="linearGradient21784"
+       x1="516.91486"
+       y1="442.59818"
+       x2="421.7486"
+       y2="529.45618"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98044258,0,0,0.99914243,-289.05377,-98.105445)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient32230"
+       id="linearGradient24499"
+       x1="411.60397"
+       y1="649.04279"
+       x2="411.65295"
+       y2="649.04279"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98044258,0,0,0.99914243,8.021764,-14.677113)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient73767"
+       id="linearGradient73769"
+       x1="410.16467"
+       y1="324.48047"
+       x2="404.68225"
+       y2="776.40039"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98044258,0,0,0.99914243,8.021764,-14.677113)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient79315"
+       id="radialGradient97458"
+       cx="715.63293"
+       cy="362.26987"
+       fx="715.65118"
+       fy="357.15961"
+       r="159.00945"
+       gradientTransform="matrix(7.1647613,0,0,0.60041157,-4714.756,32.9144)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview956"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="333"
+     inkscape:cy="379"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1592"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g960"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Image 3"
+     style="display:none">
+    <circle
+       style="display:inline;fill:#c88c38;fill-opacity:1;stroke:none;stroke-width:3.03531;stroke-dasharray:3.03531, 24.2824;-inkscape-stroke:none;stop-color:#000000"
+       id="path9620"
+       cx="410.16467"
+       cy="410.16467"
+       r="410.16467" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Image 2"
+     style="display:inline;opacity:1"
+     transform="translate(-303.00146,-83.499939)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g960"
+     style="display:inline"
+     transform="translate(-303.00146,-83.499939)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Image 4"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Image 1"
+     style="display:inline"
+     transform="translate(-303.00146,-83.499939)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Image 5">
+    <path
+       id="path59517"
+       style="display:inline;fill:url(#radialGradient97458);stroke-width:2.79598;stroke-dasharray:2.79598, 22.3681;stop-color:#000000"
+       d="m 566.06433,230.20495 c 0,52.72724 -69.79866,95.47112 -155.89965,95.47112 -86.101,0 -155.89964,-42.74387 -155.89964,-95.47112 0,-52.72723 11.15283,-76.26112 108.2499,-56.51753 94.47897,-66.70132 203.54939,3.7903 203.54939,56.51753 z"
+       sodipodi:nodetypes="ssscs"
+       inkscape:export-filename="C:\Users\jaspe\Desktop\xenia.png"
+       inkscape:export-xdpi="300.03134"
+       inkscape:export-ydpi="300.03134" />
+    <path
+       id="path17498"
+       style="display:inline;fill:url(#linearGradient73769);fill-opacity:1;stroke:none;stroke-width:0.989748px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 407.74614,250.42543 315.31067,247.51972 124.2584,430.89748 C 89.456824,407.08766 75.775754,419.50178 27.861004,406.03406 18.909478,491.03502 97.842819,597.967 173.74393,655.35717 l 231.04553,105.70029 5.37521,-38.19769 5.37521,38.19769 231.04553,-105.70029 C 722.48655,597.967 801.41986,491.03502 792.46834,406.03406 c -47.91473,13.46772 -61.59391,1.0536 -96.39547,24.86342 l -191.05419,-183.37776 -92.43547,2.90571 -2.41854,59.09966 z"
+       sodipodi:nodetypes="ccccccccccccccc"
+       inkscape:export-filename="C:\Users\jaspe\Desktop\xenia.png"
+       inkscape:export-xdpi="300.03134"
+       inkscape:export-ydpi="300.03134" />
+    <path
+       id="path17498-0"
+       style="display:inline;fill:#b84020;fill-opacity:1;stroke:none;stroke-width:0.989748px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.75406504"
+       d="m 410.16467,722.85977 5.37521,38.19769 231.04553,-105.70029 C 722.48655,597.967 801.41986,491.03502 792.46834,406.03406 c -47.91473,13.46772 -61.59391,1.0536 -96.39547,24.86342 l -191.05419,-183.37776 -92.43547,2.90571 -2.41854,59.09966 z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\jaspe\Desktop\xenia.png"
+       inkscape:export-xdpi="300.03134"
+       inkscape:export-ydpi="300.03134" />
+    <path
+       id="path11805"
+       style="display:inline;fill:url(#linearGradient24499);fill-opacity:1;stroke:none;stroke-width:0.989748px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 101.15998,467.40716 c -3.550823,-0.23346 -4.860084,0.30052 -4.860084,0.30052 -34.280281,142.91227 232.740844,316.01495 234.884934,317.46385 2.14407,1.44891 52.52267,7.99314 78.97829,7.99314 26.45563,0 76.83444,-6.54439 78.97829,-7.99314 2.14384,-1.44874 269.16716,-174.55145 234.88686,-317.46385 0,0 -20.94555,-8.53944 -122.52853,57.62827 L 415.29991,498.05469 v -0.70839 -0.79618 l -5.13775,0.75325 -5.13584,-0.75325 v 0.79618 0.70839 L 218.82651,525.33595 C 142.63924,475.71017 111.81245,468.10752 101.15998,467.40716 Z"
+       sodipodi:nodetypes="sczazccccccccccs"
+       inkscape:export-filename="C:\Users\jaspe\Desktop\xenia.png"
+       inkscape:export-xdpi="300.03134"
+       inkscape:export-ydpi="300.03134" />
+    <g
+       id="g14273"
+       inkscape:export-filename="C:\Users\jaspe\Desktop\xenia.png"
+       inkscape:export-xdpi="300.03134"
+       inkscape:export-ydpi="300.03134"
+       style="display:inline"
+       transform="matrix(0.98044258,0,0,0.99914243,-289.05377,-98.105445)">
+      <path
+         id="rect3211-5-5"
+         style="display:inline;fill:#000000;stroke-width:3.03531;stroke-dasharray:3.03531, 24.2824;stop-color:#000000"
+         d="m 695.7462,595.96375 c 0,65.48996 -53.0901,118.58006 -118.58006,118.58006 -65.48996,10e-6 -118.58007,-53.0901 -118.58007,-118.58006 -1e-5,-65.48997 53.0901,-118.58008 118.58007,-118.58007 65.48996,0 118.58007,53.09011 118.58006,118.58007 z"
+         sodipodi:nodetypes="sssss" />
+      <path
+         id="rect3211-55"
+         style="display:inline;fill:#ffffff;stroke-width:3.03531;stroke-dasharray:3.03531, 24.2824;stop-color:#000000"
+         d="M 601.94822,479.99681 472.93555,653.84865 c 3.24226,5.95972 7.00434,11.59073 11.18359,16.87695 L 621.26002,485.75693 c -6.24689,-2.42251 -12.60422,-4.41751 -19.3118,-5.76012 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path1321-0"
+         style="fill:#ffffff;stroke-width:3.24179;stroke-dasharray:3.24179, 25.9343;-inkscape-stroke:none;stop-color:#000000"
+         d="M 632.443,490.90601 492.41797,679.7842 c 15.02093,15.45171 33.96857,26.51806 54.80664,32.00976 L 678.58276,534.46743 C 667.22433,516.14973 651.6222,500.74014 632.443,490.90601 Z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <path
+       id="rect3211-5-5-7"
+       style="display:inline;fill:#000000;stroke-width:3.00419;stroke-dasharray:3.00419, 24.0335;stop-color:#000000"
+       d="m 659.76583,497.34722 c 0,65.4338 -52.05179,118.47837 -116.26094,118.47837 -64.20914,10e-6 -116.26095,-53.04457 -116.26095,-118.47837 -1e-5,-65.4338 52.0518,-118.47838 116.26095,-118.47837 64.20915,0 116.26095,53.04458 116.26094,118.47837 z"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="C:\Users\jaspe\Desktop\xenia.png"
+       inkscape:export-xdpi="300.03134"
+       inkscape:export-ydpi="300.03134" />
+    <path
+       id="rect3211-55-8"
+       style="display:inline;fill:#ffffff;stroke-width:3.00419;stroke-dasharray:3.00419, 24.0335;stop-color:#000000"
+       d="M 567.8023,381.47973 441.31278,555.18248 c 3.17885,5.95461 6.86736,11.58079 10.96487,16.86248 L 586.73641,387.23491 c -6.12472,-2.42043 -12.35772,-4.41372 -18.93411,-5.75518 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\jaspe\Desktop\xenia.png"
+       inkscape:export-xdpi="300.03134"
+       inkscape:export-ydpi="300.03134" />
+    <path
+       id="path1321-0-0"
+       style="fill:#ffffff;stroke-width:3.20856;stroke-dasharray:3.20856, 25.6684;-inkscape-stroke:none;stop-color:#000000"
+       d="m 597.70068,392.37958 -137.2865,188.71621 c 14.72716,15.43846 33.30423,26.49532 53.73476,31.98231 L 642.93806,435.90364 c -11.13628,-18.30199 -26.43328,-33.69836 -45.23738,-43.52406 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\jaspe\Desktop\xenia.png"
+       inkscape:export-xdpi="300.03134"
+       inkscape:export-ydpi="300.03134" />
+    <path
+       id="rect1458-9"
+       style="display:inline;fill:#000000;stroke-width:2.99086;stroke-dasharray:2.99086, 23.927;stop-color:#000000"
+       d="m 386.4561,496.55012 c -2.3617,68.11292 -23.33722,155.87316 -31.1168,181.80954 h 0.0326 c 0,0 11.97165,23.44441 23.49453,31.59323 6.61593,4.6787 23.25023,5.73113 31.30311,5.73113 8.05289,0 24.6891,-1.05243 31.30503,-5.73113 11.52289,-8.14882 23.49453,-31.59323 23.49453,-31.59323 h 0.0211 C 457.21019,652.42328 436.23277,564.66304 433.8711,496.55012 h -23.54169 z"
+       sodipodi:nodetypes="cccsssccccc"
+       inkscape:export-filename="C:\Users\jaspe\Desktop\xenia.png"
+       inkscape:export-xdpi="300.03134"
+       inkscape:export-ydpi="300.03134" />
+    <path
+       id="rect1458"
+       style="display:inline;fill:#ffffff;stroke-width:3.00422;stroke-dasharray:3.00422, 24.0331;stop-color:#000000"
+       d="m 410.16407,676.30598 c -18.50155,0.0787 -36.93112,1.08497 -54.96986,3.00134 0.20971,0.4096 12.05464,23.48693 23.52675,31.59982 2.84192,2.00977 7.54644,3.32569 12.6079,4.20539 l 28.04986,-38.71288 c -3.07011,-0.0567 -6.14214,-0.088 -9.21465,-0.0936 z"
+       sodipodi:nodetypes="scsccss"
+       inkscape:export-filename="C:\Users\jaspe\Desktop\xenia.png"
+       inkscape:export-xdpi="300.03134"
+       inkscape:export-ydpi="300.03134" />
+    <path
+       style="display:inline;fill:url(#linearGradient21681);fill-opacity:1;stroke:none;stroke-width:0.989748px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 485.52548,27.164675 c 0,0 393.83623,104.193865 210.3065,403.732035 l -93.30502,-66.80068 z"
+       id="path2512"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\jaspe\Desktop\xenia.png"
+       inkscape:export-xdpi="300.03134"
+       inkscape:export-ydpi="300.03134" />
+    <path
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.989748px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 504.7789,247.51935 c 0,0 1.48101,-135.83507 -19.25342,-220.354675 150.74395,114.218255 96.26701,317.703155 210.3065,403.732035 0,0 -72.57061,-15.84743 -191.05308,-183.37736 z"
+       id="path1725"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\jaspe\Desktop\xenia.png"
+       inkscape:export-xdpi="300.03134"
+       inkscape:export-ydpi="300.03134" />
+    <path
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.989748px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 485.52548,27.164675 c 0,0 62.51093,14.71547 114.347,47.9196 0,0 -43.2575,-17.734029 -90.65048,-17.734029"
+       id="path2769"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\jaspe\Desktop\xenia.png"
+       inkscape:export-xdpi="300.03134"
+       inkscape:export-ydpi="300.03134" />
+    <path
+       style="display:inline;fill:url(#linearGradient21784);fill-opacity:1;stroke:none;stroke-width:0.989748px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 334.75299,27.164675 c 0,0 -393.836403,104.193865 -210.30647,403.732035 l 93.30504,-66.80068 z"
+       id="path2512-5"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\jaspe\Desktop\xenia.png"
+       inkscape:export-xdpi="300.03134"
+       inkscape:export-ydpi="300.03134" />
+    <path
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.989748px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 315.49962,247.51935 c 0,0 -1.48106,-135.83507 19.25337,-220.354675 C 184.00903,141.38293 238.48597,344.86783 124.44652,430.89671 c 0,0 72.57062,-15.84743 191.0531,-183.37736 z"
+       id="path1725-9"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\jaspe\Desktop\xenia.png"
+       inkscape:export-xdpi="300.03134"
+       inkscape:export-ydpi="300.03134" />
+    <path
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.989748px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 334.75299,27.164675 c 0,0 -62.51088,14.71547 -114.34701,47.9196 0,0 43.25756,-17.734029 90.65054,-17.734029"
+       id="path2769-1"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\jaspe\Desktop\xenia.png"
+       inkscape:export-xdpi="300.03134"
+       inkscape:export-ydpi="300.03134" />
+    <path
+       style="fill:#f8a22a;fill-opacity:1;stroke:none;stroke-width:0.989748px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 504.7789,247.51935 c 52.78514,74.39599 -27.33174,86.79056 -66.51762,147.19536 0,0 -24.91572,-25.31834 -8.88618,-88.67012 0,0 0,60.74846 -65.90585,101.49898 0,0 -41.83913,-46.03299 -41.46889,-122.25156 -5.32673,40.59207 -19.22746,58.55062 -13.32928,73.57733 0,0 -52.06747,-36.3037 6.82854,-111.34999"
+       id="path39333"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\jaspe\Desktop\xenia.png"
+       inkscape:export-xdpi="300.03134"
+       inkscape:export-ydpi="300.03134" />
+    <ellipse
+       style="display:inline;fill:#000000;stroke-width:3.00422;stroke-dasharray:3.00422, 24.0331;-inkscape-stroke:none;stop-color:#000000"
+       id="path890"
+       cx="410.16476"
+       cy="497.34564"
+       rx="41.098621"
+       ry="27.544334"
+       inkscape:export-filename="C:\Users\jaspe\Desktop\xenia.png"
+       inkscape:export-xdpi="300.03134"
+       inkscape:export-ydpi="300.03134" />
+  </g>
+</svg>
